@@ -1,0 +1,55 @@
+body {
+  background-image: url(https://wallpaperscraft.com/image/paris_france_river_eiffel_tower_evening_11549_1920x1080.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#heading{
+	margin: 0 auto;
+	font-size: 50px;
+	color: #37FDFC;
+	font-family: cursive;
+	font-weight: bolder;
+	text-align: center;
+	padding-top: 25px;
+}
+
+#heading p {
+	margin: 0 auto;
+	font-family: cursive;
+	font-size: 40px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.directions {
+	text-align: center;
+	margin-top: 15px;
+}
+
+#submitButton {
+	background-color: #696969;
+	padding: 10px;
+	font-size: 30px;
+	font-family: "Gentium Book Basic", Georgia, serif;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: 0 auto;
+	color: #37FDFC;
+}
+
+.hidden {
+	display: none;
+}
+
+#photos {
+	margin: 0px 100px 0px 100px;
+	padding: 15px 50px 50px 50px;
+
+}
+
+#photos img {
+	border: 3px solid black;
+	margin: 5px;
+
+}
